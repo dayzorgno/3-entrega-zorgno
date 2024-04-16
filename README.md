@@ -1,6 +1,6 @@
 # 3-entrega-zorgno
 
-## es una app de reservas en un hotel, incluye las reservas sobre sala de conferencias, buffet y habitacion.##
+## Es una app de reservas en un hotel, incluye las reservas sobre sala de conferencias, buffet y habitacion.
 
 
 ## python manage.py runserver ##
